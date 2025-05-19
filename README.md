@@ -84,9 +84,9 @@ Required packages typically include:
 
 ## ❗ Notes
 
-- This is an **educational** implementation; not optimized for large-scale training.
-- No license currently provided — use at your own discretion.
+- This is an experimental implementation; not optimized for large-scale training.
+- No license
 
 ```
 
-Let me know if you want a downloadable version or want to add example outputs or Colab instructions!
+Let me know if you want to add example outputs or Colab instructions!
