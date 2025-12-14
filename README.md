@@ -88,5 +88,3 @@ Required packages typically include:
 - No license
 
 ```
-
-Let me know if you want to add example outputs or Colab instructions!
