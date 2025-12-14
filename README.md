@@ -1,10 +1,10 @@
-# 🦙 LLaMA2-from-Scratch (JAX)
+# LLaMA2-from-Scratch (JAX)
 
 This project implements Meta’s **LLaMA2** language model architecture from scratch using **JAX**, with a focus on clarity and modularity. It's intended as a learning resource and a base for further experimentation.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 llama2-from-scratch-jax/
@@ -22,7 +22,7 @@ llama2-from-scratch-jax/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the repository
 
@@ -47,7 +47,7 @@ Required packages typically include:
 
 ---
 
-## 🧠 Overview
+## Overview
 
 - **Model**: Implements LLaMA2 transformer architecture using JAX and Flax.
 - **Tokenizer**: Prepares and stores the vocabulary and tokenizer model.
@@ -56,7 +56,7 @@ Required packages typically include:
 
 ---
 
-## 📊 Workflow
+## Workflow
 
 1. **Tokenizer Preparation**  
    Use `Tokenizer_for_llama2.ipynb` to train a tokenizer or load a pretrained one. Output is saved to the `Tokenizer/` directory.
@@ -85,6 +85,3 @@ Required packages typically include:
 ## ❗ Notes
 
 - This is an experimental implementation; not optimized for large-scale training.
-- No license
-
-```
